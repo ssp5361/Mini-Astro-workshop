@@ -3,8 +3,6 @@
 
   <h3 align="center"># Mini-Astro-workshop</h3>
   <p align="center">
-    Welcome to Pulsar Hands-on Session during SKA Outreach Week @ Vigyan Samagam.
-  <p align="center">
     Set of lectures on various topics in astrophysics by early PhD and Master's students. [Link](https://sites.google.com/view/surendrapadamata/mini-astro-workshop) to the schedule and other details of the workshop.
   </p>
 </p>
