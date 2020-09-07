@@ -1,12 +1,5 @@
-<br />
-<p align="center">
-
-  #<h3 align="center">Mini-Astro-workshop</h3>
-  <p align="center">
-    Set of lectures on various topics in astrophysics by early PhD and Master's students. [Link](https://sites.google.com/view/surendrapadamata/mini-astro-workshop) to the schedule and other details of the workshop.
-  </p>
-</p>
-
+# Mini-Astro-workshop
+Set of lectures on various topics in astrophysics by early PhD and Master's students. [Link](https://sites.google.com/view/surendrapadamata/mini-astro-workshop) to the schedule and other details of the workshop.
 
 # Pre-Workshop Instructions
 To get a working *bash* login shell which is essential for the workshop. If you already have *bash* or know how to get one, please ignore this sub-section and move onto the next one. One can also dual-boot or remove windows and fresh install Ubunutu or other linux distro but please do only if you are familiar with the terminal.
