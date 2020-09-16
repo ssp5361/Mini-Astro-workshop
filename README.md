@@ -32,7 +32,7 @@ Please make sure git is installed on your laptop. You can check this by typing '
 
 For more details on how to install and configure your git on different OS plaforms, please refer to this [link](https://www.digitalocean.com/community/tutorials/how-to-contribute-to-open-source-getting-started-with-git) and the [other](https://www.atlassian.com/git/tutorials/install-git)
 
-# SSH
+## SSH
 Please make sure SSH is installed on your laptop. You can check this by typing 'sudo systemctl status ssh' on your terminal. If it's not installed, open the terminal and please follow these instructions:
 
 * On Ubuntu or Debian:
@@ -53,7 +53,7 @@ Then install ssh using:
   * `$ brew install ssh`
 More details on HOMEBREW can be found at [link](https://brew.sh/)
 
-# wget
+## wget
 It's a command used for downloading various types of files to your laptop.
 
 * On Ubuntu or Debian:
@@ -62,5 +62,12 @@ It's a command used for downloading various types of files to your laptop.
 * On MacOS: 
   * `$ brew install wget`
 
-# Workshop Instructions
-* Day 1 (September 19th 5:30pm-6:45pm IST)
+# Workshop Instructions and Resources
+
+## Day 1 (September 19th 5:30pm-6:45pm IST)
+* Instructions: 
+  * Please make sure that you went through the pre-workshop instructions and that you have a working bash shell terminal, git account and other tools as specified.
+* Resources:
+  * [Presentation slides](https://github.com/ssp5361/Mini-Astro-workshop/blob/master/presentations/Introduction%20to%20CLI%2C%20BASH%20and%20Git.pdf)
+  * [Lecture and tutorial notebook](https://github.com/ssp5361/Mini-Astro-workshop/blob/master/lectures%26tutorials/CLI%2C%20BASH%20and%20Git.pdf)
+  * [Exercise sheet](https://github.com/ssp5361/Mini-Astro-workshop/blob/master/exercises/CBG%20Exercises.pdf)
