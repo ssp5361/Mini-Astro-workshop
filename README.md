@@ -24,10 +24,12 @@ To access materials, follow and work through this workshop lectures and exercise
 Please make sure git is installed on your laptop. You can check this by typing 'git --version' on your terminal. If it's not installed, open the terminal and please follow these instructions:
 
 * On Ubuntu or Debian: 
+
  * `$ sudo apt update`
  * `$ sudo apt install git`
 
 * On MacOS:
+
  * `$ xcode-select --install`
 
 For more details on how to install and configure your git on different OS plaforms, please refer to this [link](https://www.digitalocean.com/community/tutorials/how-to-contribute-to-open-source-getting-started-with-git) and the [other](https://www.atlassian.com/git/tutorials/install-git)
@@ -36,6 +38,7 @@ For more details on how to install and configure your git on different OS plafor
 Please make sure SSH is installed on your laptop. You can check this by typing 'sudo systemctl status ssh' on your terminal. If it's not installed, open the terminal and please follow these instructions:
 
 * On Ubuntu or Debian:
+
  * `$ sudo apt update`
  * `$ sudo apt install openssh-server`
 More details on ssh on Ubuntu, please refer to this [link](https://linuxize.com/post/how-to-enable-ssh-on-ubuntu-18-04/)
@@ -57,9 +60,11 @@ More details on HOMEBREW can be found at [link](https://brew.sh/)
 It's a command used for downloading various types of files to your laptop.
 
 * On Ubuntu or Debian:
+
  * It should come pre-installed.
 
 * On MacOS: 
+
  * `$ brew install wget`
 
 # Workshop Instructions
