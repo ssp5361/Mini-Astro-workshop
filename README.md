@@ -19,5 +19,47 @@ You have a choice to either install WSL1 or WSL2, we suggest WSL1 as it is light
 ## Creating a Git account
 To access materials, follow and work through this workshop lectures and exercises, you need to create a github or bitbucket account. Please make your account today either on Github at [link](https://github.com/) or on bitbucket at [link](https://bitbucket.org/product/) using some email address.
 
+## Install Git, SSH and other tools on your laptop
+# git
+Please make sure git is installed on your laptop. You can check this by typing 'git --version' on your terminal. If it's not installed, open the terminal and please follow these instructions:
+
+On Ubuntu or Debian: 
+`$ sudo apt update`
+`$ sudo apt install git`
+On MacOS:
+`$ xcode-select --install`
+
+For more details on how to install and configure your git on different OS plaforms, please refer to this [link](https://www.digitalocean.com/community/tutorials/how-to-contribute-to-open-source-getting-started-with-git) and the [other](https://www.atlassian.com/git/tutorials/install-git)
+
+# SSH
+Please make sure SSH is installed on your laptop. You can check this by typing 'sudo systemctl status ssh' on your terminal. If it's not installed, open the terminal and please follow these instructions:
+
+On Ubuntu or Debian:
+`$ sudo apt update`
+`$ sudo apt install openssh-server`
+More details on ssh on Ubuntu, please refer to this [link](https://linuxize.com/post/how-to-enable-ssh-on-ubuntu-18-04/)
+
+On MacOS:
+Firstly, please install 'brew' (a package installer on mac, which eases your job of installing new software), using the follow command:
+
+For MacOS Catalina, macOS Mojave, and MacOS Big Sur:
+`$ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"`
+
+For macOS High Sierra, Sierra, El Capitan, and earlier:
+`$ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
+
+Then install ssh using:
+`$ brew install ssh`
+More details on HOMEBREW can be found at [link](https://brew.sh/)
+
+# wget
+It's a command used for downloading various types of files to your laptop.
+
+On Ubuntu or Debian:
+It should come pre-installed.
+
+On MacOS: 
+`$ brew install wget`
+
 # Workshop Instructions
 * Day 1 (September 19th 5:30pm-6:45pm IST)
