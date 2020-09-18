@@ -65,12 +65,15 @@ It's a command used for downloading various types of files to your laptop.
 # Workshop Instructions and Resources
 
 ## Day 1 (September 19th 5:30pm-7:00pm IST)
+* Topic
+  * Introduction to CLI, BASH and Git
 * Instructions: 
   * Please make sure that you went through the pre-workshop instructions and that you have a working bash shell terminal, git account and other tools as specified.
 * Resources:
   * [Presentation slides](https://github.com/ssp5361/Mini-Astro-workshop/blob/master/presentations/Introduction%20to%20CLI%2C%20BASH%20and%20Git.pdf)
   * [Lecture and tutorial notebook](https://github.com/ssp5361/Mini-Astro-workshop/blob/master/lectures%26tutorials/CLI%2C%20BASH%20and%20Git.pdf)
   * [Exercise sheet](https://github.com/ssp5361/Mini-Astro-workshop/blob/master/exercises/CBG%20Exercises.pdf)
+  
 ## Day 2 (September 20th 5:30pm- 6:30pm IST)
 * Topic
   * Introduction to Python and Julia
