@@ -64,7 +64,7 @@ It's a command used for downloading various types of files to your laptop.
 
 # Workshop Instructions and Resources
 
-## Day 1 (September 19th 5:30pm-6:45pm IST)
+## Day 1 (September 19th 5:30pm-7:00pm IST)
 * Instructions: 
   * Please make sure that you went through the pre-workshop instructions and that you have a working bash shell terminal, git account and other tools as specified.
 * Resources:
