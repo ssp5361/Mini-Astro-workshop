@@ -71,3 +71,12 @@ It's a command used for downloading various types of files to your laptop.
   * [Presentation slides](https://github.com/ssp5361/Mini-Astro-workshop/blob/master/presentations/Introduction%20to%20CLI%2C%20BASH%20and%20Git.pdf)
   * [Lecture and tutorial notebook](https://github.com/ssp5361/Mini-Astro-workshop/blob/master/lectures%26tutorials/CLI%2C%20BASH%20and%20Git.pdf)
   * [Exercise sheet](https://github.com/ssp5361/Mini-Astro-workshop/blob/master/exercises/CBG%20Exercises.pdf)
+## Day 2 (September 20th 5:30pm- 6:30pm IST)
+* Topic
+ * Introduction to Python and Julia
+* Instructions:
+ * The lab will be conducted using Jupyter Notebooks on Anaconda platform. Please follow this [link](https://docs.anaconda.com/anaconda/install/) to install Anaconda distribution in your workstations. This part of installation might be covered in the hands-on session if time permits. 
+ * Next download and install Julia language and IJulia using this [link](https://juliahub.com/ui/Packages/IJulia/nfu7T/1.21.2).
+* Resources
+ * coming soon
+  
