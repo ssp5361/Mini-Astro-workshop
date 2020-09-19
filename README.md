@@ -81,5 +81,6 @@ It's a command used for downloading various types of files to your laptop.
   * The lab will be conducted using Jupyter Notebooks on Anaconda platform. Please follow this [link](https://docs.anaconda.com/anaconda/install/) to install Anaconda distribution in your workstations. This part of installation might be covered in the hands-on session if time permits. 
   * Next download and install Julia language and IJulia using this [link](https://juliahub.com/ui/Packages/IJulia/nfu7T/1.21.2).
 * Resources
-  * coming soon
+  * [Python Tutorial](https://github.com/aman2010ag/Python-Tutorials/blob/master/Lab0.ipynb)
+  
   
