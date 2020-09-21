@@ -83,6 +83,6 @@ It's a command used for downloading various types of files to your laptop.
 * Resources
   * [Python Tutorial](https://github.com/aman2010ag/Python-Tutorials/blob/master/Lab0.ipynb)
   * [Julia Tutorial](https://github.com/aman2010ag/Julia-Tutorial/blob/master/Julia%20Tutorial.ipynb)
-* For further queries email [here](agarwalaman2096@gmail.com)  
+* For further queries email : agarwalaman2096@gmail.com   
   
   
