@@ -7,4 +7,5 @@
 * Resources
   * [Python Tutorial](https://github.com/aman2010ag/Python-Tutorials/blob/master/Lab0.ipynb)
   * [Julia Tutorial](https://github.com/aman2010ag/Julia-Tutorial/blob/master/Julia%20Tutorial.ipynb)
+* [Recorded lecture](https://www.youtube.com/watch?v=ZGYVET_iex0&t=2s)
 * For further queries email : agarwalaman2096@gmail.com
