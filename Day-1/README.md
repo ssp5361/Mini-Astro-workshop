@@ -8,3 +8,4 @@
   * [Lecture and tutorial notebook](https://github.com/ssp5361/Mini-Astro-workshop/blob/master/Day-1/CLI%2C%20BASH%20and%20Git.pdf)
   * [Exercise sheet](https://github.com/ssp5361/Mini-Astro-workshop/blob/master/Day-1/CBG%20Exercises.pdf)
 * [Recorded lecture](https://www.youtube.com/watch?v=faTt0pzu9cE&t=749s)
+* * For further queries email : surendrapsv1997@gmail.com
