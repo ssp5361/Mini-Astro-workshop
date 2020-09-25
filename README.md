@@ -1,5 +1,5 @@
 # Mini-Astro-workshop
-Set of lectures on various topics in astrophysics by early PhD and Master's students. [Link](https://sites.google.com/view/surendrapadamata/mini-astro-workshop) to the schedule and other details of the workshop.
+Set of lectures on various topics in astrophysics by early PhD and Master's students. [Link](https://sites.google.com/view/surendrapadamata/mini-astro-workshop) to the schedule and other details of the workshop. [YouTube playlist](https://www.youtube.com/playlist?list=PLJT6Gs_Eq5g3umr11xofnWUlbSXubie5C) where the recorded talks are available.
 
 # Pre-Workshop Instructions
 ## BASH
