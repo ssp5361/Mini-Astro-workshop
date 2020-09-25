@@ -64,41 +64,12 @@ It's a command used for downloading various types of files to your laptop.
 
 # Workshop Instructions and Resources
 
-## Day 1 (September 19th 5:30pm-7:00pm IST)
-* Topic
-  * Introduction to CLI, BASH and Git
-* Instructions: 
-  * Please make sure that you went through the pre-workshop instructions and that you have a working bash shell terminal, git account and other tools as specified.
-* Resources:
-  * [Presentation slides](https://github.com/ssp5361/Mini-Astro-workshop/blob/master/presentations/Introduction%20to%20CLI%2C%20BASH%20and%20Git.pdf)
-  * [Lecture and tutorial notebook](https://github.com/ssp5361/Mini-Astro-workshop/blob/master/lectures%26tutorials/CLI%2C%20BASH%20and%20Git.pdf)
-  * [Exercise sheet](https://github.com/ssp5361/Mini-Astro-workshop/blob/master/exercises/CBG%20Exercises.pdf)
+## [Day 1 (September 19th 5:30pm-7:00pm IST)](https://github.com/ssp5361/Mini-Astro-workshop/tree/master/Day-1)
+## [Day 2 (September 20th 5:30pm- 6:30pm IST)](https://github.com/ssp5361/Mini-Astro-workshop/tree/master/Day-2)
+## [Day 3 (September 27th, 4:30pm-5:30pm IST)](https://github.com/ssp5361/Mini-Astro-workshop/tree/master/Day-3)
   
-## Day 2 (September 20th 5:30pm- 6:30pm IST)
-* Topic
-  * Introduction to Python and Julia
-* Instructions:
-  * The lab will be conducted using Jupyter Notebooks on Anaconda platform. Please follow this [link](https://docs.anaconda.com/anaconda/install/) to install Anaconda distribution in your workstations. This part of installation might be covered in the hands-on session if time permits. 
-  * Next download and install Julia language and IJulia using this [link](https://juliahub.com/ui/Packages/IJulia/nfu7T/1.21.2).
-* Resources
-  * [Python Tutorial](https://github.com/aman2010ag/Python-Tutorials/blob/master/Lab0.ipynb)
-  * [Julia Tutorial](https://github.com/aman2010ag/Julia-Tutorial/blob/master/Julia%20Tutorial.ipynb)
-* For further queries email : agarwalaman2096@gmail.com   
 
-## Day 3 (September 27th, 4:30pm-5:30pm IST)
-* Topics:
-  * Part 1: Fundamentals of Astrodynamics
-    Abstract: Astrodynamics is the study of dynamics of man-made objects in orbit around the earth, moving under the effect of natural and artificial forces. This part of the talk will cover the fundamentals of Astrodynamics, its history, basic mathematical formulation and key concepts. It will also briefly discuss applications of Astrodynamics to satellite orbits around the earth and their practical significance. 
-  * Part 2: Space Situational Awareness
-    Abstract: This part of the talk will discuss the emerging field of Space Situational Awareness – to have knowledge about our near-space environment with the goal of minimizing threats to life and property – and examine the threat posed by orbital space debris. 
-    
-* Instructions:
-  * There are no prerequisites. This talk will simply be an introduction to what the field is about. Knowledge of classical mechanics may make it more interesting.
 
-* Resources
-  * [Fundamentals of Astrodynamics by Roger R. Bate, Donald D. Mueller and Jerry E. White](https://books.google.com.au/books/about/Fundamentals_of_Astrodynamics.html?id=UtJK8cetqGkC&redir_esc=y)
-  * [ESA SSA Programme Overview](https://www.esa.int/Safety_Security/SSA_Programme_overview)
-  
-* For further queries email komalguptag32@gmail.com
+
   
   
