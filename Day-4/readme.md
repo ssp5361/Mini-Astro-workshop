@@ -9,7 +9,7 @@
   * There are no prerequisites. Class 11-12 physics knowledge would suffice. Just learn and have fun! 
 
 * Resources
-  * [Presentation]
+  * [Presentation](https://github.com/ssp5361/Mini-Astro-workshop/blob/master/Day-4/Stellar_Evolution_talk.pptx)
   * [IGNOU self-learn material](http://egyankosh.ac.in/handle/123456789/6049)
   * [Star cluster Evolution simulation on H-R diagram](https://www.youtube.com/watch?v=wbvgjzW3Xz0&ab_channel=Astronomy1101%3AFromPlanetstotheCosmosOnline)
   * [Stellar Evolution code](http://mesa.sourceforge.net/)
