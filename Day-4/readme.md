@@ -13,5 +13,6 @@
   * [IGNOU self-learn material](http://egyankosh.ac.in/handle/123456789/6049)
   * [Star cluster Evolution simulation on H-R diagram](https://www.youtube.com/watch?v=wbvgjzW3Xz0&ab_channel=Astronomy1101%3AFromPlanetstotheCosmosOnline)
   * [Stellar Evolution code](http://mesa.sourceforge.net/)
+  * [Practice Quiz link] Will be available after the talk
   
 * For further queries email amanagarwal2096@gmail.com
