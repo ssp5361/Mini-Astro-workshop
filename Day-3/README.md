@@ -13,6 +13,6 @@
   * [Fundamentals of Astrodynamics by Roger R. Bate, Donald D. Mueller and Jerry E. White](https://books.google.com.au/books/about/Fundamentals_of_Astrodynamics.html?id=UtJK8cetqGkC&redir_esc=y)
   * [ESA SSA Programme Overview](https://www.esa.int/Safety_Security/SSA_Programme_overview)
   * [Interactive visualisation of stuff in space](http://stuffin.space/)
-  * [Orekit - low level space dynamics library providing accurate and efficient low level components for the development of flight dynamics applications](https://www.orekit.org/)
+  * [Orekit - low level space dynamics library](https://www.orekit.org/)
   
 * For further queries email komalguptag32@gmail.com
