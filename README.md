@@ -67,6 +67,7 @@ It's a command used for downloading various types of files to your laptop.
 ## [Day 1 (September 19th 5:30pm-7:00pm IST)](https://github.com/ssp5361/Mini-Astro-workshop/tree/master/Day-1)
 ## [Day 2 (September 20th 5:30pm- 6:30pm IST)](https://github.com/ssp5361/Mini-Astro-workshop/tree/master/Day-2)
 ## [Day 3 (September 27th, 4:30pm-5:30pm IST)](https://github.com/ssp5361/Mini-Astro-workshop/tree/master/Day-3)
+## [Day 4 (September 28th, 5:30pm-6:30pm IST)](https://github.com/ssp5361/Mini-Astro-workshop/tree/master/Day-4)
   
 
 
