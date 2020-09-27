@@ -9,7 +9,7 @@
   * There are no prerequisites. This talk will simply be an introduction to what the field is about. Knowledge of classical mechanics may make it more interesting.
 
 * Resources
-  * [Presentation](Astrotalk_27Sep.pdf)
+  * [Presentation](https://github.com/ssp5361/Mini-Astro-workshop/blob/master/Astrotalk_27Sep.pdf)
   * [Fundamentals of Astrodynamics by Roger R. Bate, Donald D. Mueller and Jerry E. White](https://books.google.com.au/books/about/Fundamentals_of_Astrodynamics.html?id=UtJK8cetqGkC&redir_esc=y)
   * [ESA SSA Programme Overview](https://www.esa.int/Safety_Security/SSA_Programme_overview)
   * [Interactive visualisation of stuff in space](http://stuffin.space/)
