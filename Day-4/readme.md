@@ -14,6 +14,6 @@
   * [Star cluster Evolution simulation on H-R diagram](https://www.youtube.com/watch?v=wbvgjzW3Xz0&ab_channel=Astronomy1101%3AFromPlanetstotheCosmosOnline)
   * [Stellar Evolution code](http://mesa.sourceforge.net/): A famous stellar evolution and astrophysics code
   * [ChETEC Zagreb Nucleosynthesis School](https://indico.cern.ch/event/937375/program): A really good school on nucleosynthesis and stellar evolution theory and codes
-  * [Practice Quiz link]: Will be available after the talk
+  * [Practice Quiz link](https://quizizz.com/join/quiz/5f717a6915985c001b5bd1de/start?from=admin&parentGame=5f71ecf2c36a9f001b7dea36)
   
 * For further queries email amanagarwal2096@gmail.com
