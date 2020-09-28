@@ -12,7 +12,8 @@
   * [Presentation](https://github.com/ssp5361/Mini-Astro-workshop/blob/master/Day-4/Stellar_Evolution_talk.pptx)
   * [IGNOU self-learn material](http://egyankosh.ac.in/handle/123456789/6049)
   * [Star cluster Evolution simulation on H-R diagram](https://www.youtube.com/watch?v=wbvgjzW3Xz0&ab_channel=Astronomy1101%3AFromPlanetstotheCosmosOnline)
-  * [Stellar Evolution code](http://mesa.sourceforge.net/)
+  * [Stellar Evolution code](http://mesa.sourceforge.net/) A famous stellar evolution and astrophysics code
+  * [ChETEC Zagreb Nucleosynthesis School](https://indico.cern.ch/event/937375/program) A really good school on nucleosynthesis and stellar evolution
   * [Practice Quiz link] Will be available after the talk
   
 * For further queries email amanagarwal2096@gmail.com
