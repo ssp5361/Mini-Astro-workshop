@@ -11,6 +11,7 @@
   * There are no prerequisites. 
   
 * Resources:
+  * [Presentation](https://github.com/ssp5361/Mini-Astro-workshop/blob/master/Day-5and6/MAW-%20Introduction%20of%20GWs.pdf)
   * [Bibly](https://lscsoft.docs.ligo.org/bilby/#)
   * [Lalsuite](https://lscsoft.docs.ligo.org/lalsuite/)
   
