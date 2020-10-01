@@ -10,4 +10,8 @@
 * Instructions:
   * There are no prerequisites. Class 11-12 physics knowledge would suffice. Just learn and have fun! 
   
-* For further queries email 
+* Resources:
+  * [Bibly](https://lscsoft.docs.ligo.org/bilby/#)
+  * [Lalsuite](https://lscsoft.docs.ligo.org/lalsuite/)
+  
+* For further queries email img5156@psu.edu
