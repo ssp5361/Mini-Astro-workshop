@@ -15,5 +15,5 @@
   * [Interactive visualisation of stuff in space](http://stuffin.space/)
   * [Orekit - low level space dynamics library](https://www.orekit.org/)
   
-* [Recorded lecture](https://www.youtube.com/watch?v=YmDBqmLyLNs&t=2176s)
+* [Recorded lecture](https://www.youtube.com/watch?v=YmDBqmLyLNs&list=PLJT6Gs_Eq5g3umr11xofnWUlbSXubie5C&index=3)
 * For further queries email komalguptag32@gmail.com
