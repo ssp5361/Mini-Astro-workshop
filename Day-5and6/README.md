@@ -25,4 +25,9 @@
   * [Spacetime and Geometry: An Introduction to General Relativity](https://g.co/kgs/rx9urS) by Sean M. Carroll
   * [Physics, Astrophysics and Cosmology with Gravitational Waves](https://arxiv.org/abs/0903.0338) by B.S. Sathyaprakash, B.F. Schutz
   
+* Miscellaneous:
+  * Papers on studies considering additional hairs of black holes apart from the usual mass and spin
+    1. [Numerical relativity simulation of GW150914 beyond general relativity](https://arxiv.org/abs/1911.02588)
+    2. [Numerical binary black hole collisions in dynamical Chern-Simons gravity](https://arxiv.org/abs/1906.08789)
+  
 * For further queries email img5156@psu.edu
