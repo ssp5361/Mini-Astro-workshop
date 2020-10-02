@@ -13,7 +13,7 @@
   
 * Resources:
   * [Presentation of Day-1](https://github.com/ssp5361/Mini-Astro-workshop/blob/master/Day-5and6/MAW-%20Introduction%20of%20GWs.pdf)
-  * [Presentation of Day-2](https://github.com/ssp5361/Mini-Astro-workshop/blob/master/Day-5and6/MAW-%20Introduction%20of%20GWs.pdf)
+  * [Presentation of Day-2](https://github.com/ssp5361/Mini-Astro-workshop/blob/master/Day-5and6/MAW-%20Working%20with%20LALSuite.pdf)
   * [Bibly](https://lscsoft.docs.ligo.org/bilby/#)
   * [Lalsuite](https://lscsoft.docs.ligo.org/lalsuite/)
   * [GW-Open Science Center](https://www.gw-openscience.org/about/) - GWOSC for learning more about science of LIGO and gravitational wave astrnomy by attending the tutorials and exercises available in there 
