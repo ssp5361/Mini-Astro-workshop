@@ -1,0 +1,17 @@
+These instructions work if you are working on the Terminal of an Ubuntu system. For Windows people, you can always download the Ubuntu terminal from th App Store.
+
+1. Download and install bilby. The instructions are give here: https://lscsoft.docs.ligo.org/bilby/installation.html
+
+2. Once done, you should try executing the file 150914.py. Just make sure that 150914.py and GW150914.prior are in the same directory.
+
+3. These runs typically take 2-3 days to complete. So, instead of just executing:
+
+python 150914.py
+
+Do,
+
+nohup python 150914.py &
+
+This will ensure that the program execution does not stop when you close the terminal window.  However, your PC must be runnin for the entire duration.
+
+*Note: This is the curse of parameter estimation- it takes a lot of time. THis is why we usually do it using multiple cores on clusters and supercomputers.
