@@ -27,7 +27,7 @@
   
 * Miscellaneous:
   * Papers on studies considering additional hairs of black holes apart from the usual mass and spin
-    a. [Numerical relativity simulation of GW150914 beyond general relativity](https://arxiv.org/abs/1911.02588)
-    b. [Numerical binary black hole collisions in dynamical Chern-Simons gravity](https://arxiv.org/abs/1906.08789)
+    1. [Numerical relativity simulation of GW150914 beyond general relativity](https://arxiv.org/abs/1911.02588)
+    2. [Numerical binary black hole collisions in dynamical Chern-Simons gravity](https://arxiv.org/abs/1906.08789)
   
 * For further queries email img5156@psu.edu
