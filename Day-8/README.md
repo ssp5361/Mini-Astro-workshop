@@ -8,4 +8,4 @@
 * Resources
   * Will be updated soon
   
-* For further queries email : 
+* For further queries email : raghav.arora@uni-hambug.de
