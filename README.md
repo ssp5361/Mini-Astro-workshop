@@ -70,7 +70,8 @@ It's a command used for downloading various types of files to your laptop.
 ## [Day 4 (September 28th, 5:30pm-6:30pm IST)](https://github.com/ssp5361/Mini-Astro-workshop/tree/master/Day-4)
 ## [Day 5 and 6 (October 1st, 5:30pm-6:30pm IST and October 2nd,4:30pm-5:30pm IST))](https://github.com/ssp5361/Mini-Astro-workshop/tree/master/Day-5and6)
 ## [Day 7 (October 4th, 6:30pm-7:30pm IST)](https://github.com/ssp5361/Mini-Astro-workshop/tree/master/Day-7)
-  
+## [Day 8 (October 5th, 6:30pm-7:30pm IST)](https://github.com/ssp5361/Mini-Astro-workshop/tree/master/Day-8)
+## [Day 9 (October 6th, 5:30pm-6:30pm IST)](https://github.com/ssp5361/Mini-Astro-workshop/tree/master/Day-9)
 
 
 
