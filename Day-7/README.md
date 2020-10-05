@@ -6,6 +6,6 @@
 * Instructions:
   * Just enjoy the talk
 * Resources
-  * Will be updated soon
+  * [Presentation](https://github.com/ssp5361/Mini-Astro-workshop/blob/master/Day-7/Star%20formation-1.pdf)
   
 * For further queries email : shivankhullar@gmail.com
