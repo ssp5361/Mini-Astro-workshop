@@ -1,4 +1,4 @@
-## Day 9 (October 6th, 6:30pm IST)
+## Day 9 (October 6th, 05:30pm IST)
 * Topics:
   * Part 1: Introduction to Laser Interferometer Space Antenna.
   * Part 2: Introduction to Extreme Mass Ratio black hole Binary source modelling.
