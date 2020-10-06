@@ -9,7 +9,10 @@
   * Enjoy the talk. 
  
 * Resources:
-  * will update soon
+  * [GithHub repostory of dG code](https://github.com/tcew/nodal-dg)
+  * [Review Paper on dG method](https://www.researchgate.net/publication/211746421_Unified_Analysis_of_Discontinuous_Galerkin_Methods_for_Elliptic_Problems)
+  * [Data analysis for LISA](https://arxiv.org/pdf/gr-qc/0112059.pdf)
+  * [Reducing the flexing in the arms of LISA](https://arxiv.org/pdf/gr-qc/0507105.pdf)
  
   
 * Books and reviews:
