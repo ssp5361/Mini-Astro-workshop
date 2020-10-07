@@ -14,7 +14,7 @@ Set of lectures on various topics in astrophysics by early PhD and Master's stud
 * [Day 8 (October 5th, 6:30pm-7:30pm IST)](https://github.com/ssp5361/Mini-Astro-workshop/tree/master/Day-8)
 * [Day 9 (October 6th, 5:30pm-6:30pm IST)](https://github.com/ssp5361/Mini-Astro-workshop/tree/master/Day-9)
 * [Day 10 (October 7th, 5:30pm-6:30pm IST)](https://github.com/ssp5361/Mini-Astro-workshop/tree/master/Day-10)
-* [Day 11 (October 8th, 5:30pm-7:00pm IST)((https://github.com/ssp5361/Mini-Astro-workshop/tree/master/Day-11))]
+* [Day 11 (October 8th, 5:30pm-7:00pm IST)](https://github.com/ssp5361/Mini-Astro-workshop/tree/master/Day-11))
 
 
 
