@@ -9,14 +9,14 @@
 
 * Resources:
   * [Presentation: Link to slides TBA]
-  * [Other public talks by Ayan] (https://www.mso.anu.edu.au/~acharyya/outreach.html)
+  * [Other public talks by Ayan](https://www.mso.anu.edu.au/~acharyya/outreach.html)
 
 * Related lecture notes:
-  * [Lecture notes on HII regions by Rick Pogge (Ohio State University)] (http://www.astronomy.ohio-state.edu/~pogge/Ast871/Notes/Ionized.pdf)
+  * [Lecture notes on HII regions by Rick Pogge (Ohio State University)](http://www.astronomy.ohio-state.edu/~pogge/Ast871/Notes/Ionized.pdf)
 
 * Related Publications:
-  * [Cosmic Star-formation History - Review by Madau and Dickinson, 2014] (https://ui.adsabs.harvard.edu/abs/2014ARA%26A..52..415M/abstract)
-  * [Galaxy evolution through emission lines - Review by Kewley et al., 2019] (https://ui.adsabs.harvard.edu/abs/2019ARA%26A..57..511K/abstract)
-  * [A unified model for the evolution of galaxies and quasars - by Kauffmann and Martin, 2000] (https://ui.adsabs.harvard.edu/abs/2000MNRAS.311..576K/abstract)
+  * [Cosmic Star-formation History - Review by Madau and Dickinson, 2014](https://ui.adsabs.harvard.edu/abs/2014ARA%26A..52..415M/abstract)
+  * [Galaxy evolution through emission lines - Review by Kewley et al., 2019](https://ui.adsabs.harvard.edu/abs/2019ARA%26A..57..511K/abstract)
+  * [A unified model for the evolution of galaxies and quasars - by Kauffmann and Martin, 2000](https://ui.adsabs.harvard.edu/abs/2000MNRAS.311..576K/abstract)
   
 * For further queries email ayan.acharyya@anu.edu.au
