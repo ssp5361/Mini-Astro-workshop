@@ -1,5 +1,4 @@
 ## Day 12 (October 10th, 5:30pm-07:00pm IST)
-*** This file is currently under construction ***
 * Topics:
   * Basics of observations and galaxy evolution
     
