@@ -8,7 +8,7 @@
   In this talk, I will first provide a brief overview of what these objects are and the different theories that surround their formation in the early Universe. In the second part, I will dive into details about my own research i.e. detecting PBHs using gravitational waves detected by the LIGO/Virgo detectors. The second part is further divided into two, based on the mass range of PBHs - subsolar PBHs (<1 Msun) and supersolar PBHs in the lower mass gap region (3-5 Msun). 
  
 * Instructions:
-  * It might help if you have followed the previous 'Introduction to Gravitational Waves' lecture. But it's completely alright even if you haven't - I'll be trying to explain everything as simply as possible! 
+  * It might help if you have followed the previous 'Introduction to Gravitational Waves' lecture (Days 5 & 6). But it's completely alright even if you haven't - I'll be trying to explain everything as simply as possible! 
 
 * Resources:
 
