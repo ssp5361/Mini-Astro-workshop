@@ -9,6 +9,7 @@
   * Enjoy the talk. 
  
 * Resources:
+  * [Presentation](https://github.com/ssp5361/Mini-Astro-workshop/blob/master/Day-9/MWA_manas.pptx)
   * [GithHub repostory of dG code](https://github.com/tcew/nodal-dg)
   * [Review Paper on dG method](https://www.researchgate.net/publication/211746421_Unified_Analysis_of_Discontinuous_Galerkin_Methods_for_Elliptic_Problems)
   * [Data analysis for LISA](https://arxiv.org/pdf/gr-qc/0112059.pdf)
