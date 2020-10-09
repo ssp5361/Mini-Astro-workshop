@@ -23,5 +23,8 @@
   * [Colloquium: Measuring the neutron star equation of state using x-ray timing - Watts et al. 2016](https://ui.adsabs.harvard.edu/abs/2016RvMP...88b1001W/abstract)
   * [Constraining the neutron star equation of state using pulse profile modeling - Watts et al. 2019](https://ui.adsabs.harvard.edu/abs/2019AIPC.2127b0008W/abstract)
   * [NICER Constraints on the Dense Matter Equation of State](https://www.nasa.gov/feature/goddard/2019/nasa-s-nicer-delivers-best-ever-pulsar-measurements-1st-surface-map)
-
+  
+* Miscellaneous
+  * A video lecture on [Thermal Evolution of Neutron Stars](https://www.youtube.com/watch?v=b55-f_DJxX4&list=PL04QVxpjcnjidYPYX22eFoUixq27xpFCv&index=7) by Rodrigo Negreiros
+  
 * For further queries email d.choudhury@uva.nl
