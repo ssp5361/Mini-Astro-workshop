@@ -11,5 +11,8 @@
   * It might help if you have followed the previous 'Introduction to Gravitational Waves' lecture (Days 5 & 6). But it's completely alright even if you haven't - I'll be trying to explain everything as simply as possible! 
 
 * Resources:
+  * Papers related to sub-solar PBH searches:
+    * https://arxiv.org/abs/1808.04771
+    * https://arxiv.org/abs/1904.08976
 
 * For further queries, please send me an email at sumedhabiswas@hotmail.com or reach out via Twitter (@sumedha__biswas).
