@@ -10,7 +10,8 @@
   * There are no prerequisites. Class 11 and 12 physics and mathematics knowledge will suffice. Have fun learning!
 
 * Resources:
-  * [Presentation]
+  * [Presentation](https://github.com/ssp5361/Mini-Astro-workshop/blob/master/Day-11/Mini-workshop.pptx)
+  * [xpsi](https://github.com/ThomasEdwardRiley/xpsi)
   * [ICTS Summer Course: Neutron Stars and Black Holes by G. Srinivasan](https://www.icts.res.in/lectures/summercourse-2019-nsbh)
 
 * Related lecture notes:
@@ -25,4 +26,5 @@
   
 * Miscellaneous
   * A video lecture on [Thermal Evolution of Neutron Stars](https://www.youtube.com/watch?v=b55-f_DJxX4&list=PL04QVxpjcnjidYPYX22eFoUixq27xpFCv&index=7) by Rodrigo Negreiros
+  
 * For further queries email d.choudhury@uva.nl
