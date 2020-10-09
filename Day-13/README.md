@@ -13,6 +13,7 @@
 * Resources:
   * Lectures:
     * PBHs as a Probe of the Early Universe (Bernard Carr): https://www.youtube.com/watch?v=v3EK3mCLSxA
+    * PBHs and GWs (Misao Sasaki): https://www.youtube.com/watch?v=P9ilyOsXfcQ
   * PBH Review Papers:
     * 
   * LIGO/Virgo Papers related to sub-solar PBH searches:
