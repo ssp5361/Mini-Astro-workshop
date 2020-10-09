@@ -1,6 +1,6 @@
 ## Day 13 (October 11th, 5:30pm-07:00pm IST)
 
-* Topics:
+* Topic:
   * Probing Primordial Black Holes Using Gravitational Waves (Theory and Detection)
   
   Abstract: Primordial Black Holes (PBHs) are fascinating hypothetical objects that formed a few seconds after the Big Bang. The fact that they formed from non-stellar evolution methods is what makes them so much more mysterious. Besides shedding light on the early Universe, they are also good candidates of dark matter. 
@@ -25,6 +25,6 @@
 
   * Learning BILBY: 
     * Refer to the Day 6 lecture and resources ('Part 2: Introduction to GW parameter estimation')
-    * An introduction to Bayesian inference in gravitational-wave astronomy (Thrane and Talbot, 2018): https://arxiv.org/abs/1809.02293
+    * Introduction to Bayesian inference in GW astronomy (Thrane and Talbot, 2018): https://arxiv.org/abs/1809.02293
     
 * For further queries, please send me an email at sumedhabiswas@hotmail.com or reach out via Twitter (@sumedha__biswas).
