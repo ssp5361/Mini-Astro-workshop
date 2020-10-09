@@ -11,6 +11,7 @@
   * It might help if you have followed the previous 'Introduction to Gravitational Waves' lecture (Days 5 & 6). But it's completely alright even if you haven't - I'll be trying to explain everything as simply as possible! 
 
 * Resources:
+
 There are very few books about PBHs - personally, I've only relied on various lectures and papers.
 
   * Lectures:
@@ -21,9 +22,5 @@ There are very few books about PBHs - personally, I've only relied on various le
     * First conception of a PBH hypothesis (Zel'dovich, Y. B. & Novikov, 1966): http://adsabs.harvard.edu/full/1967SvA....10..602Z 
     * Earliest theory about PBH formation (Hawking, 1971): https://academic.oup.com/mnras/article/152/1/75/2604549
     * Recent Review Paper about PBHs with regard to GWs (Sasaki et al, 2018): https://arxiv.org/abs/1801.05235
-
-  * LIGO/Virgo Papers related to sub-solar PBH searches:
-    * Advanced LIGO's first observing run: https://arxiv.org/abs/1808.04771
-    * Advanced LIGO's second observing run: https://arxiv.org/abs/1904.08976
-
+    
 * For further queries, please send me an email at sumedhabiswas@hotmail.com or reach out via Twitter (@sumedha__biswas).
