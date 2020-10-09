@@ -12,7 +12,7 @@
 
 * Resources:
 
-There are very few books about PBHs - personally, I've only relied on various lectures and papers.
+  There are very few books about PBHs - personally, I've only relied on various lectures and papers.
 
   * Lectures:
     * PBHs as a Probe of the Early Universe (Bernard Carr): https://www.youtube.com/watch?v=v3EK3mCLSxA
