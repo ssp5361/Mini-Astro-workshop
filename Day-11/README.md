@@ -2,7 +2,7 @@
 
 ## Day 11 (October 8th, 5:30pm-07:00pm IST)
 * Topics:
-  * Compact Objects and Dense Matter: Probing Neutron Star Interiors - [recorded lecture]()
+  * Compact Objects and Dense Matter: Probing Neutron Star Interiors - [recorded lecture](https://www.youtube.com/watch?v=i9oTQ3YAuWg)
 
     Abstract: This talk is aimed at introducing the formation and nature of compact objects that harbour dense states of matter within them, i.e., matter within white dwarf and neutron stars. I will provide a brief overview of concepts of electron- and neutron-degeneracy pressure and how they play a key role in sustaining these extreme objects. The latter half of this talk will be focused particularly on the interior of neutron stars, how we are trying to probe them via modelling of high time-resolution X-ray observations collected by NICER (Neutron Star Interior Composition Explorer), and the latest results thus obtained.
 
