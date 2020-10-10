@@ -2,6 +2,7 @@
 * Topics:
   * Part 1: Introduction to Laser Interferometer Space Antenna.
   * Part 2: Introduction to Extreme Mass Ratio black hole Binary source modelling.
+  * [Recorded lecture](https://www.youtube.com/watch?v=2FWqeVZRPQE&list=PLJT6Gs_Eq5g3umr11xofnWUlbSXubie5C&index=9)
   
     Abstract: Laser Interferometer Space Antenna is the upcoming space borne laser interferometer to detect gravitational waves in mHz range. I will be talking about the orbit and the stabilization of the 3 space crafts. I will also be talking about its primary source which is Extreme Mass Ratio black hole Binaries. I will discuss what challenges lie ahead in modelling of Gravitational Wave sources for LISA and why discontinuous Galerkin method is a good candidate for the algorithm to be used.
 
