@@ -1,7 +1,7 @@
 ## Day 10 (October 7th, 05:30pm IST)
 
 * Topic:
-    * Event Rates and Waveform modeling of EMRI
+    * Event Rates and Waveform modeling of EMRI - [recorded lecture](https://www.youtube.com/watch?v=OkIy1yTal7E&list=PLJT6Gs_Eq5g3umr11xofnWUlbSXubie5C&index=10)
 
     * Abstract: Numerous galaxies host a massive black hole (MBH) in the galactic center enclosed by stellar clusters with a large verity of dense stellar population. Extreme mass-ratio inspirals (EMRIs) are the most compelling sources of gravitational radiation detectable by Laser Interferometer Space Antenna (LISA) that will be able to observe the entire sky probing for the gravitational universe. The sensitivity band of LISA lies in the frequency range of about 10^−4 to 10^−1 Hz with mass range ∼ 10^4 –10^7 solar units . EMRIs are the prime source for LISA encompasses the whirling of compact objects (COs), typically stellar-mass black holes (BH), neutron stars (NS), white dwarfs (WD) and intermediate-mass black holes (IMBH) with small mass ratio and prolonged cycles ∼ 10^4 –10^5, emitting gravitational radiations lasting for several years. I would like to talk about the formation channels of EMRIs, currently available waveform models, computations of event rates, and the expected science return from EMRIs.
 
