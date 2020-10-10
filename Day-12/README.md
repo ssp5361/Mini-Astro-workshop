@@ -8,7 +8,7 @@
   * Curiosity, and Class 11 physics background
 
 * Resources:
-  * [Presentation: Link to slides TBA]
+  * [Presentation](https://github.com/ssp5361/Mini-Astro-workshop/blob/master/Day-12/Ayan_MAW_talk.pptx)
   * [Other public talks by Ayan](https://www.mso.anu.edu.au/~acharyya/outreach.html)
 
 * Related lecture notes:
