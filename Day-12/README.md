@@ -11,6 +11,13 @@
   * [Presentation](https://github.com/ssp5361/Mini-Astro-workshop/blob/master/Day-12/Ayan_MAW_talk.pptx)
   * [Other public talks by Ayan](https://www.mso.anu.edu.au/~acharyya/outreach.html)
 
+* Open-source codes/packages:
+  * [enzo_model_code](https://github.com/ayanacharyya/enzo_model_code): code for generating PPV cubes
+  * [SimSpin](https://github.com/kateharborne/SimSpin): A package for the kinematic analysis of galaxy simulations
+     Description: The purpose of the Simspin R-package is to take a galaxy simulation and measure an the kinematics of that model as if it had been observed using                     an IFU. A kinematic data cube can be produced using the functions in this package; from this cube, "observables" can be measured.
+     
+     A web-app version of the above package can be found at this link](http://simspin.icrar.org/)
+
 * Related lecture notes:
   * [Lecture notes on HII regions by Rick Pogge (Ohio State University)](http://www.astronomy.ohio-state.edu/~pogge/Ast871/Notes/Ionized.pdf)
 
