@@ -13,7 +13,9 @@
 * Resources:
 
   There are very few books about PBHs - personally, I've only relied on various lectures and papers.
-
+  
+  * (Presentation](https://github.com/ssp5361/Mini-Astro-workshop/blob/master/Day-13/PBHs%20-%20Mini%20Astro.pdf)
+  
   * Lectures:
     * PBHs as a Probe of the Early Universe (Bernard Carr): https://www.youtube.com/watch?v=v3EK3mCLSxA
     * PBHs and GWs (Misao Sasaki): https://www.youtube.com/watch?v=P9ilyOsXfcQ
