@@ -2,7 +2,7 @@
 * Topic:
   * Turbulence, stratification and their role in the intracluster medium
     
-    Abstract: Stratified turbulence governs the dynamics of several terrestrial and astrophysical systems, in the ocean currents and atmospheric motions in earth and other planets, the solar interior and the haloes of galaxies and galaxy clusters. We shall focvus on the largest systems, where understanding the properties of stratified turbulence in galaxy clusters is key to understand why they form 100 times less stars and also to accurately model their mass which is important for cosmology. 
+    Abstract: Stratified turbulence governs the dynamics of several terrestrial and astrophysical systems, in the ocean currents and atmospheric motions in earth and other planets, the solar interior and the haloes of galaxies and galaxy clusters. We shall focus on the largest systems, where understanding the properties of stratified turbulence in galaxy clusters is key to understand why they form 100 times less stars and also to accurately model their mass which is important for cosmology. 
 In this talk, I shall first introduce you to galaxy clusters and the intracluster medium (ICM). Then I shall explain some key concepts of stratified turbulence and derive some scaling relations which we shall apply to the ICM gas. 
 
 * Prerequisites:
