@@ -10,7 +10,7 @@ In this talk, I shall first introduce you to galaxy clusters and the intracluste
   * Basic knowlege about [galaxy clusters](https://en.wikipedia.org/wiki/Galaxy_cluster) and [the intracluster medium](https://en.wikipedia.org/wiki/Intracluster_medium)
 
 * Resources:
-  * Presentation [pdf format] (https://github.com/ssp5361/Mini-Astro-workshop/blob/master/Day-14/rajsekhar_mini_astro_workshop.pdf)
+  * [Presentation](https://github.com/ssp5361/Mini-Astro-workshop/blob/master/Day-14/rajsekhar_mini_astro_workshop.pdf)
 
 * Related lecture notes:
   * [Lecture notes](https://ocw.mit.edu/courses/earth-atmospheric-and-planetary-sciences/12-820-turbulence-in-the-ocean-and-atmosphere-spring-2007/lecture-notes/) on turbulence, MIT open courseware, go through the 3D turbulence chapter.
