@@ -1,7 +1,7 @@
 ## Day 13 (October 11th, 5:30pm-07:00pm IST)
 
 * Topic:
-  * Probing Primordial Black Holes Using Gravitational Waves (Theory and Detection)
+  * Probing Primordial Black Holes Using Gravitational Waves (Theory and Detection) - [recorded lecture](https://www.youtube.com/watch?v=DVcomqm1u4Y&feature=emb_logo)
   
   Abstract: Primordial Black Holes (PBHs) are fascinating hypothetical objects that formed a few seconds after the Big Bang. The fact that they formed from non-stellar evolution methods is what makes them so much more mysterious. Besides shedding light on the early Universe, they are also good candidates of dark matter. 
   
